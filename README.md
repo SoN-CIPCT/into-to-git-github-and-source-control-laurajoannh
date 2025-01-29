@@ -2,6 +2,7 @@
 # :wave: The Basics of GitHub 
 
 Due February 2, 2025
+This cool!
 
 ## 🤓 Course overview and learning outcomes 
 
